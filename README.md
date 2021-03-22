@@ -1,4 +1,4 @@
-# jogo_do_galo_py
+# tik_tak_toe
 Project made by DiogoValdrez
 
 Small project just for fun.
